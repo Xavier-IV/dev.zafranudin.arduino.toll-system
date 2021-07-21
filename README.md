@@ -9,8 +9,6 @@ Package Library Used:
 - https://github.com/miguelbalboa/rfid
 - https://github.com/nRF24/RF24
 
----
-
 ## Receiver Module
 
 This module will receive incoming data from the transmitter and display relevant information.
@@ -29,8 +27,6 @@ Contains classes:
 
 That allows manageable code structure and scalability. Adhering SOLID principle for code.
 
-
----
 ## Follow and Subscribe
 
 * Facebook: https://www.facebook.com/Hobi-Elektronik-110633564588022
