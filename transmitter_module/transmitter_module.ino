@@ -40,14 +40,10 @@ void setup() {
   digitalWrite(5, HIGH);
   digitalWrite(6, HIGH);
 
-  while (!Serial) {
-    delay(100);
-  }
+  while (!Serial) delay(100);
 
-  while (!radio.begin()) {
-    Serial.println("Doomed");
-    delay(100);
-  }
+  while (!radio.begin()) delay(100);
+
   radio.powerUp();
   radio.openWritingPipe(address);
   radio.setPALevel(RF24_PA_MIN);
