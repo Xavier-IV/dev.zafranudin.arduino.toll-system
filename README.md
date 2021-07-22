@@ -29,5 +29,5 @@ That allows manageable code structure and scalability. Adhering SOLID principle 
 
 ## Follow and Subscribe
 
-* Facebook: https://www.facebook.com/Hobi-Elektronik-110633564588022
-* Youtube: https://www.youtube.com/ZafranudinZafrin
+* Like our [Facebook](https://fb.me/hobielektronik.101) page
+* Subscribe to our [Youtube](https://www.youtube.com/ZafranudinZafrin) channel
