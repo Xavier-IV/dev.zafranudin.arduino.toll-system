@@ -31,8 +31,6 @@ struct Payload {
 
 Payload payload;
 
-float test[2];
-
 void setup() {
   Serial.begin(9600);
 
