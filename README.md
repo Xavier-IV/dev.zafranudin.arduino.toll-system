@@ -4,6 +4,11 @@
 
 This project is to help me understand how to sandbox with complex multi Arduino projects.
 
+<img width="400" alt="image" src="https://github.com/Xavier-IV/dev.zafranudin.arduino.toll-system/assets/14009259/1d836479-4b67-46bb-896c-6d6624b8d564">
+
+See the project in action at:
+https://www.facebook.com/watch/?v=192834632804605
+
 Package Library Used:
 
 - https://github.com/miguelbalboa/rfid
